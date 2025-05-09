@@ -62,7 +62,6 @@ HybridEPC_Project/
 ├── cost_functions/
 │   └── sphere_func.m         # Example function for testing (optional)
 ```
-
 ---
 
 ## ⚙️ How to Run the Code
