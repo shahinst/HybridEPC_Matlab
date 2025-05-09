@@ -17,8 +17,6 @@ The algorithm is applied to the **Zachary Karate Club Network**, a well-known be
 
 ## 🚀 What Has Been Done
 
-Since the original paper provides **no source code**, we manually reconstructed and implemented the algorithm based on the paper's pseudocode and methodology.
-
 Here’s what we built from scratch:
 
 * Implemented `hybrid_epc.m`, a full version of the Hybrid-EPC algorithm
@@ -66,7 +64,7 @@ HybridEPC_Project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/HybridEPC_Project.git
+git clone https://github.com/shahinst/HybridEPC_Project.git
 cd HybridEPC_Project
 ```
 
@@ -120,4 +118,4 @@ Sahbi Bahroun, et al. Hybrid‑EPC: an Emperor Penguins Colony algorithm with cr
 
 ---
 
-https://digicloud.tr/EPC.jpg
+![Hybrid-EPC Algorithm Illustration](https://digicloud.tr/EPC.jpg)
