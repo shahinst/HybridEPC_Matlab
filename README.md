@@ -97,9 +97,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 If you use this code in your research, please cite:
 
 ```bibtex
-  author = {Shahin SalekTootoonchi},
+  author = {Shahin SalekTootoonchi,Mostafa Heshmati},
   title = {Hybrid EPC for Community Detection},
-  year = {2024},
+  year = {2025},
   url = {https://github.com/shahinst/HybridEPC_Project}
 
 ```
