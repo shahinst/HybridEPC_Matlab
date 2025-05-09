@@ -82,6 +82,7 @@ The algorithm provides:
 Best Cost: -0.17932
 Best Modularity Q = 0.17932
 ```
+![Hybrid-EPC Algorithm Illustration](https://digicloud.tr/EPC.jpg)
 
 ## Contributing
 
@@ -100,7 +101,7 @@ If you use this code in your research, please cite:
   title = {Hybrid EPC for Community Detection},
   year = {2024},
   url = {https://github.com/shahinst/HybridEPC_Project}
-}
+
 ```
 
 ## Acknowledgments
