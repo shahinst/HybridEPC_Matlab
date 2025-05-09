@@ -1,10 +1,10 @@
 ---
 
-## 📌 Hybrid-EPC: MATLAB Implementation of a Community Detection Algorithm
+Hybrid-EPC: MATLAB Implementation of a Community Detection Algorithm
 
-This project is a full **MATLAB implementation** of the algorithm proposed in the paper:
+This project is a full MATLAB implementation of the algorithm proposed in the paper:
 
-**Hybrid-EPC: An Emperor Penguins Colony Algorithm with Crossover and Mutation Operators and its Application in Community Detection**
+Hybrid-EPC: An Emperor Penguins Colony Algorithm with Crossover and Mutation Operators and its Application in Community Detection
 Published in *Progress in Artificial Intelligence*.
 
 ---
