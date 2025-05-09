@@ -4,8 +4,8 @@
 
 This project is a full **MATLAB implementation** of the algorithm proposed in the paper:
 
-> **Hybrid-EPC: An Emperor Penguins Colony Algorithm with Crossover and Mutation Operators and its Application in Community Detection**
-> Published in *Progress in Artificial Intelligence*.
+**Hybrid-EPC: An Emperor Penguins Colony Algorithm with Crossover and Mutation Operators and its Application in Community Detection**
+Published in *Progress in Artificial Intelligence*.
 
 ---
 
