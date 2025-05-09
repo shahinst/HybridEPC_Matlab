@@ -45,7 +45,7 @@ The Hybrid EPC algorithm combines several optimization techniques to efficiently
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/shahinst/HybridEPC_Project
+git clone https://github.com/shahinst/HybridEPC_Matlab
 cd hybrid-epc
 ```
 
@@ -100,7 +100,7 @@ If you use this code in your research, please cite:
   author = {Shahin SalekTootoonchi,Mostafa Heshmati},
   title = {Hybrid EPC for Community Detection},
   year = {2025},
-  url = {https://github.com/shahinst/HybridEPC_Project}
+  url = {https://github.com/shahinst/HybridEPC_Matlab}
 
 ```
 
