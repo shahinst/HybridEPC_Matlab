@@ -22,3 +22,6 @@ disp(['Best Cost: ', num2str(BestSol.Cost)]);
 
 % Plot results with different visualization options
 plot_graph_result(A, BestSol.Position, 'all');  % Shows all visualization types
+
+Q = modularity_score(A, round(BestSol.Position));
+disp(['Best Modularity Q = ', num2str(-Q)]);  % Display positive modularity
